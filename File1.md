@@ -3,12 +3,6 @@
 
 after
 
-add
-the new code
-add some
+addабсольюнно новая инфа в ветке мастера
 
-this is me code
-
-this is me code 11
-
-this is me code 312312
+тест перед конфликтом
